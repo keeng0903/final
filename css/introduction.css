@@ -226,3 +226,9 @@ a{
 .d-none{
   display: none;
 }
+.intro{
+   font-family: fantasy;
+}
+.font {
+  font-size: 13px;
+}
